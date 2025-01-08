@@ -1,3 +1,4 @@
+# Terraform Provider: provider.tf 
 variable "aws_access_key" {
   description = "AWS Access Key"
   type        = string
